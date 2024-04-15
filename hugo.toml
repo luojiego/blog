@@ -1,4 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://luojiego.github.io/'
 languageCode = 'en-us'
 title = "Roger's Blog"
 theme = 'beautifulhugo'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = true
