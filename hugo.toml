@@ -1,7 +1,8 @@
-baseURL = 'https://luojiego.github.io/'
+baseURL = 'https://luojiego.com'
 languageCode = 'en-us'
 title = "Roger's Blog"
 theme = 'beautifulhugo'
+publishDir = "public/docs"
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
