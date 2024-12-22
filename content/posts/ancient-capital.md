@@ -1,7 +1,7 @@
 +++
 title = '《古都》读书笔记'
 date = 2024-12-22T23:07:34+08:00
-draft = true
+draft = false
 tags = ["books", "小说", "川端康成"]
 +++
 # 总结
